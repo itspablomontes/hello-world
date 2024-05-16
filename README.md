@@ -1,2 +1,2 @@
 # hello-world
- first repo
+ Repository created for an introductory course.
